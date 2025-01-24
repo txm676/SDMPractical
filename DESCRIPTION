@@ -18,5 +18,7 @@ Depends:
     R (>= 3.5)
 Imports:
     raster,
-    sp
+    sp,
+    sdm,
+    usdm
 RoxygenNote: 7.3.2
