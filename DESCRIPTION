@@ -16,4 +16,7 @@ Encoding: UTF-8
 LazyData: true
 Depends: 
     R (>= 3.5)
+Imports:
+    raster,
+    sp
 RoxygenNote: 7.3.2
